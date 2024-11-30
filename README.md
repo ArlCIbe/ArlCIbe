@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="images\github-header-image-dark.png">
+ <source media="(prefers-color-scheme: light)" srcset="images\github-header-image-light.png">
+ <img alt="pink banner covered in white " src="images\github-header-image-dark.png">
+</picture>
+
 ### Hi👋 I'm Arlinda. 
 
 ## About me
@@ -9,12 +15,6 @@ After over a decade of elevating customer experiences, transitioning to shaping 
 When I’m not coding or writing, I’m probably hanging with my babies--my dog, Korbel and my cat, Harli--watching anime, playing rugby or thinking about how to make technical documentation less boring.
 
 Feel free to reach out—I'm always up for cool projects and good conversation!
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="images\github-header-image-dark.png">
- <source media="(prefers-color-scheme: light)" srcset="images\github-header-image-light.png">
- <img alt="pink banner covered in white " src="images\github-header-image-dark.png">
-</picture>
 
 <!--
 **ArlCIbe/ArlCIbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
