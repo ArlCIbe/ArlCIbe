@@ -2,11 +2,11 @@
 
 ## About me
 
-US Army vet turned full-stack dev with a passion for making tech more accessible. I've spent over a decade in customer success, but am now diving deep into code to build user-focused solutions.
+Customer success expert turned full-stack dev with a passion for advocacy and accessibility. I've spent over a decade elevating the customer experience, so my transition into shaping user experiences with tech has been a natural transition.
 
-When I’m not coding or writing, I’m probably hanging with my pets or thinking about how to make documentation less boring.
+When I’m not coding or writing, I’m probably hanging with my babies--my dog, Korbel and my cat, Harli--watching anime, or thinking about how to make technical documentation less boring.
 
-Feel free to reach out and connect—always up for cool projects and good conversation!
+Feel free to reach out—I'm always up for cool projects and good conversation!
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="images\github-header-image-dark.png">
