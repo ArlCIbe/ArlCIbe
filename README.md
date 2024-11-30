@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="images\github-header-image-dark.png">
- <source media="(prefers-color-scheme: light)" srcset="images\github-header-image-light.png">
- <img alt="pink banner covered in white " src="images\github-header-image-dark.png">
-</picture>
+<!-- fullstack dev | writer | proud cat lady: previous banner label-->
 
 #### Code wrangler by day💻🤠, rugby bruiser by the weekend🏉👊 
 
