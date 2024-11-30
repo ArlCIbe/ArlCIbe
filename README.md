@@ -2,9 +2,11 @@
 
 ## About me
 
-Customer success expert turned full-stack dev with a passion for advocacy and accessibility. I've spent over a decade elevating the customer experience, so my transition into shaping user experiences with tech has been a natural transition.
+**Customer success expert turned full-stack dev with a passion for advocacy and accessibility.**
 
-When I’m not coding or writing, I’m probably hanging with my babies--my dog, Korbel and my cat, Harli--watching anime, or thinking about how to make technical documentation less boring.
+After over a decade of elevating customer experiences, transitioning to shaping user experiences with technology felt like a natural evolution.
+
+When I’m not coding or writing, I’m probably hanging with my babies--my dog, Korbel and my cat, Harli--watching anime, playing rugby or thinking about how to make technical documentation less boring.
 
 Feel free to reach out—I'm always up for cool projects and good conversation!
 
