@@ -4,15 +4,22 @@
  <img alt="pink banner covered in white " src="images\github-header-image-dark.png">
 </picture>
 
-### Hi👋 I'm Arlinda. 
+#### Code wrangler by day💻🤠, rugby bruiser by the weekend🏉👊 
+
+### First novel compiling✍️📚
+### Furry co-wororkers on standby🐾🤝 
+
+#### Catch me out here building accessible tech (and occasionally chasing Harli off the keyboard).
 
 ## About me
 
-**Customer success expert turned full-stack dev with a passion for advocacy and accessibility.**
+**console.log("Hello World")🌍 I'm Arlinda😊**
 
 After over a decade of elevating customer experiences, transitioning to shaping user experiences with technology felt like a natural evolution.
 
-When I’m not coding or writing, I’m probably hanging with my babies--my dog, Korbel and my cat, Harli--watching anime, playing rugby or thinking about how to make technical documentation less boring.
+When I’m not coding, you can catch me:
+📖 Writing my first novel: 
+- I’m probably hanging with my babies--my dog, Korbel and my cat, Harli--watching anime, playing rugby or thinking about how to make technical documentation less boring.
 
 Feel free to reach out—I'm always up for cool projects and good conversation!
 
