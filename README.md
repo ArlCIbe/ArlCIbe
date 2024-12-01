@@ -1,3 +1,6 @@
+**⚠️Profile makeover is in progress, so watch your step--and the repo for updates😎. Thank you for your patience as I continue crafting this space.**
+(![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif))
+
 # TL;DR --> Code Wrangler🤠 | Table Shaker💥 | Dream Chaser💭
 
 ## Behind the Screen👩‍💻
