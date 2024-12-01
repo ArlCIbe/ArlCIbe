@@ -1,4 +1,5 @@
-**⚠️Profile makeover is in progress, so watch your step--and the repo for updates😎. Thank you for your patience as I continue crafting this space.**
+**⚠️Profile makeover is in progress! watch your step--and the repo for updates😎**
+**Thanks for your patience as I continue crafting this space. See you soon👋**
 
 <img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif" width="100%" height="70%" />
 
