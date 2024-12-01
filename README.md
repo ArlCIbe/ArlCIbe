@@ -1,5 +1,5 @@
 **⚠️Profile makeover is in progress, so watch your step--and the repo for updates😎. Thank you for your patience as I continue crafting this space.**
-<img src=https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif./>
+<img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif"/>
 
 # TL;DR --> Code Wrangler🤠 | Table Shaker💥 | Dream Chaser💭
 
