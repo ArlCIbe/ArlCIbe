@@ -1,5 +1,4 @@
-**⚠️Profile makeover is in progress, so watch your step--and the repo for updates😎. Thank you for your patience as I continue crafting this space.**
-(![](https://github.com/ArlCIbe/PikachuUnderConstruction.gif))
+![**⚠️Profile makeover is in progress, so watch your step--and the repo for updates😎. Thank you for your patience as I continue crafting this space.**](https://github.com/ArlCIbe/PikachuUnderConstruction.gif))
 
 # TL;DR --> Code Wrangler🤠 | Table Shaker💥 | Dream Chaser💭
 
