@@ -1,5 +1,3 @@
-### **A friendly note to whomever it may concern, but particularly to hiring managers, recruiters, and the like: please don’t let my playful tone fool you. I’m sharing my quirky side here, but if you’d prefer a more polished, buttoned-up version of my background, feel free to check out my LinkedIn or reach out directly.**
-
 # TL;DR --> Code wrangler slangin' syntax by the pound | table shaker | dream chaser🏃‍♀️
 
 ## Behind the Screen👩‍💻
