@@ -4,18 +4,16 @@
 
 # Code Wrangler Slangin Syntax by the Pound
 
-## Behind the Screen👩‍💻
+## Behind the Screen
 
-After more than a decade of crafting and elevating customer experiences through my natural ability to connect with others, transitioning into building and enhancing user experiences felt like the next logical step in my journey—a meaningful expansion of my skill set.  
+After more than a decade of crafting and elevating customer experiences through my natural ability to connect with others, transitioning into building and enhancing user experiences felt like the next logical step in my journey. My passion for accessibility and advocacy stems from a deep commitment to leading with empathy, shaping both my approach to development and the way I navigate life.
 
-At the heart of everything I do is compassion in action. My passion for accessibility and advocacy stems from a deep commitment to leading with empathy, shaping both my approach to development and the way I navigate life.
-
-### My Dev Essentials🧰
+### My Dev Essentials
 - Block schedule and timer to keep me on task
 - Furry co-workers to get me off task
 - Sticky notes for sudden epiphanies and forget-me-nots
 
-## Beyond the Screen🚀
+## Beyond the Screen
 
 I'm a creative at my core, so I see expressing myself through art as a form of self-care. My mom was a singer, so music's in my blood. Singing and dancing always take me to my happy place. I'm also a writer. While I enjoy doing that, what really fires me up and spurred that is my fascination with story-teling. No internet or cable meant I did a whole lot of reading as a kid, and Fantasy epics were my favorite. I an i believe is what ignited my passion for story-telling.
 
