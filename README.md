@@ -1,4 +1,4 @@
-**⚠️Pardon the mess! Profile makeover is in progress, so be sure to watch your step (and the repos) for updates😎**
+**Pardon the mess! Profile makeover is in progress, so be sure to watch your step (and the repos) for updates😎**
 
 **Thanks for your patience while I fine-tune this space. Pikachu’s holding down the fort in the meantime, so I hope to see you back soon👋**
 
