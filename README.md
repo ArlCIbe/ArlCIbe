@@ -3,6 +3,7 @@
 <img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif" width="60%" height="40%" />
 
 # Code Wrangler Slangin Syntax by the Pound
+**Customer success expert turned full-stack developer with a passion for advocacy and accessibility.**
 
 ## Behind the Screen
 
