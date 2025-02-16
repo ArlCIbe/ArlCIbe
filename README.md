@@ -2,7 +2,7 @@
 
 **Thanks for your patience while I fine-tune this space. Pikachu’s holding down the fort in the meantime, so I hope to see you back soon👋**
 
-<img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif" width="100%" height="70%" />
+<img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif" width="60" height="40%" />
 
 # TL;DR --> Code Wrangler🤠 | Table Shaker💥 | Dream Chaser💭
 
