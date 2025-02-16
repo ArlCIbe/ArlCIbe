@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif" width="60%" height="40%" />
 
-# TLDR --> Code Wrangler | Table Shaker | Dream Chaser
+# Code Wrangler Slangin Syntax by the Pound
 
 ## Behind the Screen👩‍💻
 
