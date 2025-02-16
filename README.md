@@ -4,7 +4,7 @@
 
 <img src="https://github.com/ArlCIbe/ArlCIbe/blob/main/images/PikachuUnderConstruction.gif" width="60%" height="40%" />
 
-# TL;DR --> Code Wrangler | Table Shaker | Dream Chaser
+# TLDR --> Code Wrangler | Table Shaker | Dream Chaser
 
 ## Behind the Screen👩‍💻
 
